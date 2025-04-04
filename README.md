@@ -1,6 +1,6 @@
 # Project Name
 
-QA Analyst Challenge for Circula
+e2e tests for Circula
 
 ## Description
 
