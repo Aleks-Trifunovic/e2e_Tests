@@ -1,6 +1,5 @@
 # Project Name
 
-e2e tests for Circula
 
 ## Description
 
